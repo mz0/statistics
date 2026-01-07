@@ -44,15 +44,21 @@ addressing the request for deep yet not dry statistics textbooks.
 [10](https://www.youtube.com/watch?v=J4uXuHqxVdg)
 
 ## Personal note and older list (ca. 2009) by Zed Shaw
-In year 2009 Zed Shaw's essay "Programmers Need To Learn Statistics Or I Will Kill Them All"
+In year 2009 Zed Shaw's essay "Programmers Need To Learn Statistics Or I Will Kill Them All" (ca. [2005](https://web.archive.org/web/20061107135234/http://www.zedshaw.com/rants/programmer_stats.html))
 [(archived in 2014)](https://web.archive.org/web/20140314001238/http://zedshaw.com/essays/programmer_stats.html)
 impressed me but lack of time (and general attention deficit) prevented further study.
 
 Revisiting looks worth it. Besides there are Zed's recommendations:
-1. Statistics; by Freedman, Pisani, Purves, and Adhikari. Norton publishers ISBN-10 0393929728
-1. Introductory Statistics with R; by Dalgaard. Springer ISBN-10 0387954759
-1. Statistical Computing: An Introduction to Data Analysis using S-Plus; by Crawley. Wiley ISBN 0471560405
-1. Statistical Process Control; by Grant, Leavenworth. McGraw-Hill ISBN 0071142487
-1. Statistical Methods for the Social Sciences; by Agresti, Finlay. Prentice-Hall ISBN 0130272957
-1. Methods of Social Research; by Baily. Free Press publishers ISBN 1416576940
-1. Modern Applied Statistics with S-PLUS; by Venables, Ripley. 2002 DOI:10.1007/b97626
+1. Statistics; by Freedman, Pisani, Purves, and Adhikari. ISBN-10 0393929728
+1. Introductory Statistics with R; by Dalgaard. Springer ISBN 0387954759
+1. Statistical Computing: An Introduction to Data Analysis using S-Plus; by Crawley. ISBN 0471560405
+1. Statistical Process Control; by Grant, Leavenworth. ISBN 0071142487
+1. Statistical Methods for the Social Sciences; by Agresti, Finlay. ISBN 0130272957
+1. Methods of Social Research; by Baily. ISBN 1416576940
+1. Modern Applied Statistics with S-PLUS; by Venables, Ripley. 2002
+
+## See also
+* (Russian) [Кобзарь А.И. Прикладная математическая статистика 2006](pub/Kobzar-2006.pdf) - [on Archive.org](https://archive.org/details/2006_20250899331/mode/2up)
+* [ZSFA piece discussion on HN](https://news.ycombinator.com/item?id=626771)
+  * [The Introductory Statistics Course: A Ptolemaic Curriculum? (doi.org/10.5070/T511000028)](pub/G.W.Cobb-2007.pdf)
+  * [Advice to Mathematics Teachers on Evaluating Introductory Statistics Textbooks](pub/MAAFIXED.PDF) - [from web.archive](https://web.archive.org/web/20090106024236/http://statland.org/MAAFIXED.PDF)
