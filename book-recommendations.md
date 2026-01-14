@@ -43,19 +43,20 @@ addressing the request for deep yet not dry statistics textbooks.
 [9](https://www.bestreviews.guide/statistics-textbooks)
 [10](https://www.youtube.com/watch?v=J4uXuHqxVdg)
 
-## Personal note and older list (ca. 2009) by Zed Shaw
-In year 2009 Zed Shaw's essay "Programmers Need To Learn Statistics Or I Will Kill Them All" (ca. [2005](https://web.archive.org/web/20061107135234/http://www.zedshaw.com/rants/programmer_stats.html))
-[(archived in 2014)](https://web.archive.org/web/20140314001238/http://zedshaw.com/essays/programmer_stats.html)
-impressed me but lack of time (and general attention deficit) prevented further study.
+## Personal note and older list (ca. 2005) by Zed Shaw
+Zed Shaw's essay "Programmers Need To Learn Statistics Or I Will Kill Them All"
+[as of 2006-11-07](https://web.archive.org/web/20061107135234/http://www.zedshaw.com/rants/programmer_stats.html)
+[as of 2014-03-31](https://web.archive.org/web/20140314001238/http://zedshaw.com/essays/programmer_stats.html)
+caught my attention in 2009 but lack of time prevented further study.
 
-Revisiting looks worth it. Besides there are Zed's recommendations:
-1. Statistics; by Freedman, Pisani, Purves, and Adhikari. ISBN-10 0393929728
-1. Introductory Statistics with R; by Dalgaard. Springer ISBN 0387954759
-1. Statistical Computing: An Introduction to Data Analysis using S-Plus; by Crawley. ISBN 0471560405
-1. Statistical Process Control; by Grant, Leavenworth. ISBN 0071142487
-1. Statistical Methods for the Social Sciences; by Agresti, Finlay. ISBN 0130272957
-1. Methods of Social Research; by Baily. ISBN 1416576940
-1. Modern Applied Statistics with S-PLUS; by Venables, Ripley. 2002
+Revisiting looks worth it. Here are Zed's recommendations:
+1. Statistics; Freedman, Pisani, Purves, and Adhikari. ISBN-10 0393929728
+2. Introductory Statistics with R; Dalgaard. ISBN 0387954759
+3. Statistical Computing: An Introduction to Data Analysis using S-Plus; Crawley. ISBN 0471560405
+4. Statistical Process Control; Grant, Leavenworth. ISBN 0071142487
+5. Statistical Methods for the Social Sciences;Agresti, Finlay. ISBN 0130272957
+6. Methods of Social Research; Baily. ISBN 1416576940
+7. Modern Applied Statistics with S-PLUS; Venables, Ripley. 2002
 
 ## See also
 * (Russian) [Кобзарь А.И. Прикладная математическая статистика 2006](pub/Kobzar-2006.pdf) - [on Archive.org](https://archive.org/details/2006_20250899331/mode/2up)
